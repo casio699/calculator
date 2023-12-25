@@ -1,0 +1,9 @@
+html{
+    background-color: antiquewhite;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    background-color: snow;
+}
